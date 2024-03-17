@@ -1,0 +1,20 @@
+.not-img1 {
+  width: 450px;
+}
+.not-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 86vh;
+}
+.fail-h1 {
+  color: #1e293b;
+  font-family: 'roboto';
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+.fail-p {
+  color: #1e293b;
+  font-family: 'roboto';
+}

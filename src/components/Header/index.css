@@ -1,0 +1,11 @@
+.header-nav-container {
+  background-color: #f1f5f9;
+  height: 12vh;
+  width: 100%;
+  padding-left: 100px;
+  padding-top: 10px;
+}
+.header-image1 {
+  width: 220px;
+  height: 60px;
+}
